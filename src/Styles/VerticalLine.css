@@ -1,0 +1,20 @@
+.line{
+    padding-left: 25%;
+    border-left: 6px solid green;
+    height: 300px;
+    
+}
+
+.linehorizontalderecha{
+    padding-left: 25%;
+    border-top: 6px solid green;
+    width: 500px;
+    
+}
+
+.linehorizontalizquierda{
+    padding-left: 5%;
+    border-top: 6px solid green;
+    width: 500px;
+    
+}
