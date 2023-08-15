@@ -192,7 +192,7 @@ const Proyects2 = () => {
        }}
        />
       <div className="container">
-        <h4><b>Locales</b></h4> 
+        <h4><b>Locales.</b></h4> 
         <p>Apoyo surtiendo block y concreto para este complejo de loclaes</p> 
       </div>
       </div>
