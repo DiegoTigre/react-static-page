@@ -81,7 +81,7 @@ src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/12/hipertex
 <Footer/>
 
 
-<Carrusel></Carrusel>
+
 
     </>
   )
