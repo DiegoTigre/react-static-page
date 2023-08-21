@@ -12,12 +12,18 @@ import Products2 from './assets/Pages/Products2';
 import Products3 from './assets/Pages/Products3';
 import { Abaout2 } from './assets/Pages/Abaout2';
 import { Abaout3 } from './assets/Pages/Abaout3';
+import Products4 from './assets/Pages/Products4';
+
+
+
 
 function App() {
  
 
   return (
     <>
+
+      
       
 
       <BrowserRouter basename="">
@@ -28,6 +34,8 @@ function App() {
       <Route path="/productos" element={ <Products /> } />
       <Route path="/productos2" element={ <Products2 /> } />
       <Route path="/productos3" element={ <Products3 /> } />
+      <Route path="/productos4" element={ <Products4 /> } />
+      
       <Route path="/about" element={ <Abaout /> } />
       <Route path="/about2" element={ <Abaout2 /> } />
       <Route path="/about3" element={ <Abaout3 /> } />

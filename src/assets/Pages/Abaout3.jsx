@@ -92,6 +92,28 @@ export const Abaout3 = () => {
      </p>
  
   </div>
+
+
+
+
+  <div className="row" style={{paddingLeft:'24.2%'}}>
+  <div className="col-sm-6">
+  <div className="row" style={{paddingLeft:'0%'}}>
+  <div className="col-sm-2">
+    <div className="">
+     
+  
+     <div className="linehorizontalizquierda" >
+  
+  </div>
+     
+    </div>
+    </div>
+</div>
+  </div>
+  </div>
+
+
   
   
  <div className="row" style={{paddingLeft:'38%'}}>
