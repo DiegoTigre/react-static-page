@@ -106,11 +106,12 @@ const NavBar = () => {
             SOBRE NOSOTROS
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown" >
-           <li className='nav-item p-3 py-md-1'><NavLink to="/about" className="nav-link" style={{color:'black'}}>Donde nos encontramos</NavLink></li>
+          <li className='nav-item p-3 py-md-1'><NavLink to="/about4" className="nav-link" style={{color:'black'}}>Acerca De Pepi</NavLink></li>
+              
+          <hr></hr> <li className='nav-item p-3 py-md-1'><NavLink to="/about" className="nav-link" style={{color:'black'}}>Donde nos encontramos</NavLink></li>
           <hr/><li className='nav-item p-3 py-md-1'><NavLink to="/about2" className="nav-link" style={{color:'black'}}>Nuestras Plantas</NavLink></li>
           <hr/><li className='nav-item p-3 py-md-1'><NavLink to="/about3" className="nav-link" style={{color:'black'}}>Nuestra Historia</NavLink></li>
-        
-              
+          
    
           </ul>
         </li>

@@ -13,6 +13,7 @@ import Products3 from './assets/Pages/Products3';
 import { Abaout2 } from './assets/Pages/Abaout2';
 import { Abaout3 } from './assets/Pages/Abaout3';
 import Products4 from './assets/Pages/Products4';
+import Abaout4 from './assets/Pages/Abaout4';
 
 
 
@@ -39,6 +40,7 @@ function App() {
       <Route path="/about" element={ <Abaout /> } />
       <Route path="/about2" element={ <Abaout2 /> } />
       <Route path="/about3" element={ <Abaout3 /> } />
+      <Route path="/about4" element={ <Abaout4 /> } />
       <Route path="/contact" element={ <Contact /> } />
       <Route path="/carrusel" element={ <Carrusel /> } />
       </Routes>
