@@ -96,7 +96,8 @@ const Carrusel = () => {
     <>
 
  <CarouselImg
-      src={selectedImage} alt='gentelman' className={loaded ? "loaded" : ""} onLoad={()=> setLoaded(true)}
+      src={selectedImage} alt='gentelman' className={loaded ? "loaded" : ""} onLoad={()=> setLoaded(true)} carrusel tradicional
+    
       >
 
 

@@ -15,7 +15,9 @@ const Abaout4 = () => {
       
       }}>   <h1 className="text-black" style={{textAlign: "center"}}>Acerca de Pepi</h1></div>
 
-    <div className="row" style={{ paddingLeft:'15%',paddingTop: '3%'}}>
+
+
+    <div className="row" style={{ paddingLeft:'15%',paddingTop: '3%',}}>
   <div className="col-sm-4" style={{width:'25%', height:'25%'}} >
     <div className="">
       <div className="">
@@ -56,6 +58,8 @@ const Abaout4 = () => {
 </div>
 
 
+
+<hr></hr>
 
 <div className="contenedor" 
 style={{ 

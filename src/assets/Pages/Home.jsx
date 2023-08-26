@@ -5,6 +5,7 @@ import NavBar from '../../Components/NavBar';
 import Flotilla from '../Images/Flotilla2.jpg';
 import equipoirapuato from '../Images/equipoirapuato.jpg';
 import Concretopepiblockprecio from '../Images/Concretopepiblockprecio.jpg';
+import VideoCarrusel from '../../Components/VideoCarrusel';
 
 
 
@@ -38,7 +39,7 @@ height: '100vh',
 }} 
     
     > 
-   <Carrusel/>
+   <VideoCarrusel/>
 
    </div>
    
