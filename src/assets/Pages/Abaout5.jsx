@@ -101,13 +101,28 @@ We offer guaranteed quality to our clients, because all our products and service
 established in the current Mexican Standards. In this way we also ensure that rework of construction elements is avoided in each of the projects where we provide our services. <br></br>
 <br></br>
 
-To achieve this, we rely on the use of automated weigh-dosing equipment, and testing laboratories governed by standardized procedures and our 100% qualified technical staff.
-We provide peace of mind and certainty in deliveries to our customers, because we have the necessary and sufficient infrastructure to meet your requirements in a correct and timely manner, which is why at Concretos y Block Pepi, we rely on our concrete plants, our 100% automated block plants, our fleet of trucks, both for concrete and block transport, as well as with mobile plants, boom pumps and stationary pumps, for which we also maintain our plants and equipment in optimal conditions and always available to provide the best possible service and availability.
-
-At Concretos y Block Pepi we not only deliver the best ready-mix hydraulic concrete and concrete block; we also offer flexibility of negotiation in price and terms, as well as periodic commercial promotions.
-We serve our clients mainly in their residential, commercial, industrial and light infrastructure projects, which allows us to focus on products and services for this type of jobs.
-We offer all this and more to our clients. However, beyond the quality and efficiency of our products and processes, also above the technology we use, is the value we offer our clients thanks to the talent and eagerness to serve of our people. We are certain that all this enormous effort will benefit our clients, who are the main reason for everything we undertake.
-
+To achieve this, we rely on the use of automated weigh-dosing equipment, <br></br>
+and testing laboratories governed by standardized <br></br>
+procedures and our 100% qualified technical staff. We provide peace of mind and <br></br>
+certainty in deliveries to our customers,  <br></br>
+because we have the necessary and sufficient infrastructure to meet your requirements <br></br>
+in a correct and timely manner, <br></br>
+which is why at Concretos y Block Pepi, we rely on our concrete plants, <br></br>
+our 100% automated block plants, our fleet of trucks, <br></br>
+both for concrete and block transport, as well as with mobile plants, <br></br>
+boom pumps and stationary pumps, for which we also maintain our plants <br></br>
+and equipment in optimal conditions and always available to provide <br></br>
+the best possible service and availability.<br></br>
+<br></br>
+At Concretos y Block Pepi we not only deliver the best ready-mix hydraulic concrete and concrete block; <br></br>
+we also offer flexibility of negotiation in price and terms, as well as periodic commercial promotions.<br></br>
+We serve our clients mainly in their residential, commercial, industrial and light infrastructure projects,<br></br> 
+which allows us to focus on products and services for this type of jobs.<br></br>
+We offer all this and more to our clients. However, beyond the quality and efficiency of our products and processes, <br></br>
+also above the technology we use, is the value we offer our clients thanks to the talent and eagerness to serve of our people. <br></br>
+We are certain that all this enormous effort will benefit our clients, who are the main reason for everything we undertake.<br></br>
+<br></br>
+<br></br>
 Concretos y Block PEPI:
 Solutions with extraordinary Service and Quality for our Clients
   </p>
