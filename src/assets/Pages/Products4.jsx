@@ -1,6 +1,6 @@
 import { Footer } from "../../Components/Footer"
 import NavBar from "../../Components/NavBar"
-
+import aditivos from '../Images/concreto-con-aditivos.jpg';
 
 
 
@@ -12,10 +12,10 @@ const Products4 = () => {
     <NavBar/>
 
 
-    <div className="" style={{paddingTop: '10px',width:'100%',height:'400px'}}>
+    <div className="" style={{paddingTop: '10px',width:'100%',height:'600px'}}>
  
-      <img  src='https://3.bp.blogspot.com/-N-tqgeGRmGo/WeQn9pxIjlI/AAAAAAAAAHE/aJZ47VCo-lIYJTbSnF8ok2Be--6E4M0wACLcBGAs/s400/Aditivos-Adiciones-y-Fibras-para-concreto.jpg' 
-      style={{width:'100%',height:'400px'}} />
+      <img  src={aditivos} 
+      style={{width:'100%',height:'600px'}} />
       
  
   

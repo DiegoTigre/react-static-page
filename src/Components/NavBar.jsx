@@ -20,7 +20,7 @@ const NavBar = () => {
         <a href='' className='navbar-brand text-info fw-semibold fs-4'></a>
         <div style={{
         
-        height: '8.5vh',
+        height: '100%',
         color:'white',
         fontSize: '40px'
       
@@ -28,9 +28,10 @@ const NavBar = () => {
         
          className='home-card-image' src={concretoyblocklogo2}
          style={{ 
-          paddingLeft: '50px',
-          width: '200px',
-          height: '100%',
+          paddingLeft: '0px',
+          width: '250px',
+          height: '150%',
+          borderRadius:'20px',
           }}/>
 </div>
 

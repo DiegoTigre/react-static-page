@@ -21,7 +21,6 @@ const Proyects = () => {
     <NavBar/>
 
     
-    <br></br>
 
     <div style={{
 

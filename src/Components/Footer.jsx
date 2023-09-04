@@ -97,13 +97,13 @@ export const Footer = () => {
             <MDBCol md='3' lg='2' xl='2' className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Links</h6>
               <p>
-                <a href='#!' className='text-reset'>
-                  Pricing
+                <a href='https://www.facebook.com/profile.php?id=100089372575370&locale=es_LA' className='text-reset'>
+                  Facebook Concretos PEPI Saltillo - Oficial
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
-                  Settings
+                <a href='https://www.facebook.com/profile.php?id=100089494340884&locale=es_LA' className='text-reset'>
+                  Favebook Concretos PEPI Irapuato - Oficial
                 </a>
               </p>
               <p>
@@ -122,17 +122,31 @@ export const Footer = () => {
               <h6 className='text-uppercase fw-bold mb-4'>Contacto</h6>
               <p>
                 <MDBIcon color='secondary' icon='home' className='me-2' />
-                Saltillo Coahuila
+                
+                BLVD. NAZARIO ORTIZ GARZA #354
+ 				        COL. SALTILLO 400
+				        SALTILLO. COAHUILA
+				        CP. 25290
+                TELEFONOS:		(844) 415-73-10, (844) 416-73-50, (844) 416-3-70
+                 
+                
+              </p>
+              <br></br>
+              <p>
+              SUCURSAL IRAPUATO:  CARR.IRAPUATO-LOMA DE FLORES #1204.
+                LOMA DE FLORES . IRAPUATO , GTO. 
+                Telefono: (462) 103-03-83
+                RFC: 		  	DPP-991203-FW7
               </p>
               <p>
                 <MDBIcon color='secondary' icon='envelope' className='me-3' />
                 concretospepi.com
               </p>
               <p>
-                <MDBIcon color='secondary' icon='phone' className='me-3' /> + 01 234 567 88
+                <MDBIcon color='secondary' icon='phone' className='me-3' /> REGISTRO SIEM:	0383
               </p>
               <p>
-                <MDBIcon color='secondary' icon='print' className='me-3' /> + 01 234 567 89
+                <MDBIcon color='secondary' icon='print' className='me-3' /> REGISTRO PATRONAL: A36-42445-10-2
               </p>
             </MDBCol>
           </MDBRow>

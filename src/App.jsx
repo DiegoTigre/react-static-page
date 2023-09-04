@@ -15,6 +15,7 @@ import { Abaout3 } from './assets/Pages/Abaout3';
 import Products4 from './assets/Pages/Products4';
 import Abaout4 from './assets/Pages/Abaout4';
 import VideoCarrusel from './Components/VideoCarrusel';
+import Abaout5 from './assets/Pages/Abaout5';
 
 
 
@@ -42,6 +43,7 @@ function App() {
       <Route path="/about2" element={ <Abaout2 /> } />
       <Route path="/about3" element={ <Abaout3 /> } />
       <Route path="/about4" element={ <Abaout4 /> } />
+      <Route path="/about5" element={ <Abaout5 /> } />
       <Route path="/contact" element={ <Contact /> } />
       <Route path="/carrusel" element={ <Carrusel /> } />
       <Route path="/video" element={ <VideoCarrusel /> } />

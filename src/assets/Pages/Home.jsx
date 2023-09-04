@@ -1,11 +1,14 @@
 
-import Carrusel from '../../Components/Carrusel';
+
 import { Footer } from '../../Components/Footer';
 import NavBar from '../../Components/NavBar';
 import Flotilla from '../Images/Flotilla2.jpg';
 import equipoirapuato from '../Images/equipoirapuato.jpg';
+
 import Concretopepiblockprecio from '../Images/Concretopepiblockprecio.jpg';
 import VideoCarrusel from '../../Components/VideoCarrusel';
+import Laboratorio from './Laboratorio';
+import Clientes from './Clientes';
 
 
 
@@ -113,6 +116,7 @@ height: '100vh',
   </div>
 </div>
 
+<Clientes/>
 
 <div  style={{
         display: 'flex',
@@ -257,8 +261,14 @@ className="row">
   <div className="col-sm-6"
   
   >
+<div>
+
+</div>
+
+
     <div className="card"
     >
+    
       <div 
       className="card-body"
       style={{
@@ -300,6 +310,7 @@ className="row">
 <br></br>
 <br></br>
 
+
 <div  style={{
         
         height: '20vh',
@@ -307,6 +318,8 @@ className="row">
         fontSize: '40px'
       
       }}>   <h2 className="text-white" style={{textAlign: "center"}}></h2></div>
+
+<Laboratorio/>
 
 
 <div  style={{

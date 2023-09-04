@@ -22,7 +22,7 @@ const Proyects2 = () => {
         <NavBar/>
     
         
-        <br></br>
+        
     
         <div style={{
     

@@ -1,4 +1,7 @@
-import NavBar from "../../Components/NavBar"
+import { NavLink } from "react-router-dom";
+import NavBar from "../../Components/NavBar";
+
+
 
 
 const Abaout4 = () => {
@@ -72,6 +75,8 @@ style={{
     fontSize:'25px'}}>
 
         <h2>Concretos y Block Pepi</h2>
+        <NavLink to="/about5" className="nav-link" style={{color:'black'}}>English</NavLink>
+              
         &nbsp;
 
 
