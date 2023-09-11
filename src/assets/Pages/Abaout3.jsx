@@ -4,6 +4,7 @@ import   "../../Styles/VerticalLine.css"
 import plantasaltillo from "../Images/plantasaltillo.jpg"
 import nuestraflotillaweb from "../Images/nuestraflotillaweb.jpg"
 import TI2 from "../Images/TI2.jpg"
+import sistemacarga2 from "../Images/sistemacarga2.png"
 
 export const Abaout3 = () => {
   return (
@@ -313,13 +314,14 @@ export const Abaout3 = () => {
   
 
    
-  <img style={{
+  <img className='card'style={{
     paddingLeft:'0px',
     paddingTop: '10px',
     height:'400px',
     width:'400px',
-    borderRadius:'200px',}} src={TI2} alt="Avatar" />
+    borderRadius:'200px',}} src={sistemacarga2} alt="Avatar" />
  </div>
+
 
      
     </div>
@@ -332,9 +334,9 @@ export const Abaout3 = () => {
     <br></br>
 
     <br></br>
-     Se toma la desición de migrar a las nuevas tecnologias,
+     Se integran tecnologias de control de despacho y Logistica Industrial
      <br></br>
-      Sistemas Informaticos, Comerciales Orientados a la Nube.
+      Sistemas Informaticos de Control, Orientados a la Nube.
      <br></br>
      
      <br></br> 
@@ -349,7 +351,7 @@ export const Abaout3 = () => {
 
 
   
-
+  
 
 
 
@@ -370,6 +372,8 @@ export const Abaout3 = () => {
   </div>
   </div>
 
+  
+
 
 
 
@@ -389,6 +393,77 @@ export const Abaout3 = () => {
 </div>
   </div>
   </div>
+
+
+  <div className="row" style={{paddingLeft:'38%'}}>
+  <div className="col-sm-6">
+  <div className="row" style={{paddingLeft:'40%'}}>
+  <div className="col-sm-2">
+    <div className="">
+     
+  
+     <div className="linehorizontalderecha" >
+  
+  </div>
+     
+    </div>
+    </div>
+</div>
+  </div>
+  </div>
+
+
+
+
+
+  <div className="row" style={{ paddingLeft:'35%'}}>
+  <div className="col-sm-6">
+  <div className="row" style={{ paddingLeft:'15%'}}>
+  <div className="col-sm-2">
+    <div className="">
+    
+     <div className="text-center" style={{
+ 
+   
+}}>
+  
+
+   
+  <img style={{
+    paddingLeft:'0px',
+    paddingTop: '10px',
+    height:'400px',
+    width:'400px',
+    borderRadius:'200px',}} src={TI2} alt="Avatar" />
+ </div>
+
+     
+    </div>
+    </div>
+</div>
+  </div>
+  <p>Concretos Pepi Tecnologia
+    <br></br> 
+    Año 2022
+    <br></br>
+
+    <br></br>
+     Se toma la desición de migrar a las nuevas tecnologias,
+     <br></br>
+      Sistemas Informaticos, Comerciales Orientados a la Nube.
+     <br></br>
+     
+     <br></br> 
+     Esto gracias a la Vision Del Lic. Miguel Pepi de ver hacia el Futuro
+     <br></br>
+     y contemplar las nuevas tendencias de marketing digital y Administración de Negocios.
+     <br></br>
+     </p>
+  </div>
+
+
+
+
 
 
 

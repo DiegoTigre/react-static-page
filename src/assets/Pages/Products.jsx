@@ -1,9 +1,9 @@
 
 import { Footer } from '../../Components/Footer'
 import NavBar from '../../Components/NavBar'
-import block from '../Images/block.png';
-import proyectoespecializado8 from '../Images/proyectoespecializado8.jpg';
-import especializado1 from '../Images/especializado1.jpg';
+
+import imagendespacho from '../Images/imagendespacho.png';
+
 
 const Products = () => {
   return (
@@ -14,11 +14,10 @@ const Products = () => {
     <div className='text-center' style={{paddingLeft: '200px'}}><h1>Servicios Despacho Concreto</h1></div>
     <br></br>
     
-  
-    <hr></hr>
+
     <div className="" style={{paddingTop: '1px',width:'100%',height:'500px'}}>
  
-      <img  src={proyectoespecializado8} 
+      <img  src={imagendespacho} 
       style={{width:'100%',height:'500px'}} />
       
  
@@ -54,7 +53,7 @@ El bloque de concreto es una pieza prefabricada (vibrocomprimido) con forma de p
         justifyContent: 'center',
         height: '25vh',
       
-      }} src="https://odoo.harmak.com/web/image/42406-8237e7ad/Iconos%20concreto%20premezclado_Mesa%20de%20trabajo%201.png"  />
+      }} src={"https://odoo.harmak.com/web/image/42406-8237e7ad/Iconos%20concreto%20premezclado_Mesa%20de%20trabajo%201.png"}  />
        
       </div>
     </div>

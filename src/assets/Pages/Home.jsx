@@ -9,6 +9,7 @@ import Concretopepiblockprecio from '../Images/Concretopepiblockprecio.jpg';
 import VideoCarrusel from '../../Components/VideoCarrusel';
 import Laboratorio from './Laboratorio';
 import Clientes from './Clientes';
+import Infraestructura from './Infraestructura';
 
 
 
@@ -339,7 +340,7 @@ className="row">
   <div className="col-sm-6">
     <div className="">
       <div className="">
-      <img  style={{width:'82%'}}  src={Concretopepiblockprecio}  />
+      <img  style={{width:'82%',borderRadius:'10px'}}  src={Concretopepiblockprecio}  />
       </div>
     </div>
   </div>
@@ -348,7 +349,7 @@ className="row">
       <div 
       className="">
    
-        <img  style={{width:'100%'}}  src='https://blog.laminasyaceros.com/hs-fs/hubfs/BLOQUES/LAMINAS%20Y%20ACEROS%20BLOQUES%20EN%20CONSTRUCCION.jpg?width=695&name=LAMINAS%20Y%20ACEROS%20BLOQUES%20EN%20CONSTRUCCION.jpg'  />
+        <img  style={{width:'100%', borderRadius:'10px'}}  src='https://blog.laminasyaceros.com/hs-fs/hubfs/BLOQUES/LAMINAS%20Y%20ACEROS%20BLOQUES%20EN%20CONSTRUCCION.jpg?width=695&name=LAMINAS%20Y%20ACEROS%20BLOQUES%20EN%20CONSTRUCCION.jpg'  />
         <div className="" style={{paddingLeft:'0%', paddingRight:'0%'}}
     >
       <div 
@@ -360,7 +361,8 @@ className="row">
         color: 'white',
         paddingLeft:'5%',
         width:'100%',
-     
+        borderBlockStart:'0px',
+        borderBlockEnd:'10px',
       
       }}
       >
@@ -392,6 +394,19 @@ className="row">
 </div>
 
 
+
+
+
+
+<br></br>
+  <br></br>
+  <br></br>
+  
+  <Infraestructura/>
+  
+  <br></br>
+  <br></br>
+  <br></br>
 
 
 
@@ -434,6 +449,12 @@ style={{
   <br></br>
   <br></br>
   <br></br>
+  
+  
+
+
+
+
 
   <div className="card-body">
     <h5 className="card-title">SOLUCIONES A TU MEDIDA</h5>
