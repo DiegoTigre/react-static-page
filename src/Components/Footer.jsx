@@ -103,7 +103,7 @@ export const Footer = () => {
               </p>
               <p>
                 <a href='https://www.facebook.com/profile.php?id=100089494340884&locale=es_LA' className='text-reset'>
-                  Favebook Concretos PEPI Irapuato - Oficial
+                  Facebook Concretos PEPI Irapuato - Oficial
                 </a>
               </p>
               <p>

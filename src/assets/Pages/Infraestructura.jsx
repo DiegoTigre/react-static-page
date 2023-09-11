@@ -10,7 +10,7 @@ const Infraestructura = () => {
 <hr></hr>
 <br></br>
 <br></br>
-<center><h1> Tecnologia de Sistemas en Logistica y Control Industrial </h1></center>
+<center><h1> Tecnologia de Sistemas en Logistica,  Control y Automatización Industrial </h1></center>
 <br></br>
 <br></br>
 <br></br>

@@ -4,86 +4,193 @@ import NavBar from "../../Components/NavBar"
 
 
 const Contact = () => {
-  return (<>
+  return (
+  
+  <div>
   <NavBar/>
+
+  <div style={{height:'10%', backgroundColor:"#CDFF49",textAlign:'right'}}>.</div>
    
+<div className="card" >
+    <div style={{ 
+      height:'200px',
+      width:'100%',
+      color:"white",
+      textAlign:"center",
+      fontSize:'40px', 
+      backgroundImage: `url('https://img.freepik.com/vector-premium/fondo-imagen-portada-linkedin_420273-422.jpg?w=1800')`}}>
+  <p> Contacto Block Saltillo </p>
 
-    <div className="jumbotron jumbotron-fluid">
-  <div className="container">
-    <h1 className="display-4">Contactanos</h1>
-   --
-   --
-
-<div className="card-group mt-3">
-
-&nbsp;
-
-
-<div className="card">
-<img style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        height: '18.8vh',
-      }}
-src="https://fotografias.lasexta.com/clipping/cmsimages02/2019/06/23/74994AF9-0E54-4F57-B663-11B3483086DD/default.jpg?crop=1300,731,x0,y6&width=1900&height=1069&optimize=low" alt="Avatar" />
-<div className="container">
-<h4><b></b></h4> 
-<p className="lead">Whatsapp 8444135120</p>
-</div>
-</div>
+  <ul style={{
+    textAlign:'left', 
+    fontSize:'20px',
+    paddingLeft:'10%',
+    paddingTop:'2%',
+    color:'black'
+    }}>
+    <li><a href='https://www.facebook.com/profile.php?id=100089372575370&locale=es_LA' className='text-reset'>
+                  Facebook Concretos PEPI Saltillo - Oficial
+                </a></li>
+    
+    </ul> 
+  </div>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<div className="card">
-<img style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        height: '18.8vh',
-      }}
-src="https://previews.123rf.com/images/barbulat/barbulat1603/barbulat160300004/53598736-tel%C3%A9fonos-ip-de-sombra-fotos.jpg" alt="Avatar" />
- 
-<div className="container">
-<h4><b></b></h4> 
-<p>Concreto 8444135144 ext-12</p> 
-<p>Block 8444135144 ext-10 </p> 
-</div>
-</div>
 
+<div className="row" style={{
+  paddingTop: '20px', 
+  paddingLeft:'5%',
+  backgroundImage: `url('https://img.freepik.com/vector-premium/fondo-imagen-portada-linkedin_420273-422.jpg?w=1800')` 
+  }}>
+  <div className="col-sm-6" >
+    <div className="">
+      <div className="">
+     
+      <img style={{width:'25%',height:'25%', borderRadius:'100%'}} 
+        src='https://imacom.com.pe/patricia_nuevo/wp-content/uploads/2020/09/tienes_presencia_ejecutiva_patricia_canepa_4.jpg'  />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<div className="card">
-<img style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        height: '18.8vh',
-      }}
-src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/12/hipertextual-ios-14-outlook-y-gmail-defecto-enviar-correos-electronicos-2020888122.webp?resize=1200%2C800&quality=50&strip=all&ssl=1" alt="Avatar" />
-<div className="container">
-<h4><b></b></h4> 
-<p>ventasblock@concretospepi.com</p> 
-<p>ventasConcreto@concretospepi.com</p> 
-</div>
-</div>
-
-</div>
-
-   --
+<ul style={{paddingLeft: '10%'}}>
+       
+        <li>Name: Palmira de la O </li>
+        <li>Carrer: Comercio Internacional</li>
+        <li>Position: Ventas</li>
+        
+      </ul>
+  
+      <img  style={{width:'80%'}} src=''  />
+      </div>
+    </div>
+  </div>
+  <div className="col-sm-5" >
+    <div className="" style={{paddingTop:'20%'}}>
+      <div 
+      className="">
    
+   <ul style={{paddingLeft: '10%', fontSize:'25px'}}>
+        <li>Celphone: (844) 502-62-22</li>
+        <li>Phone: (844)  4-13-25-50</li>
+        <li>Ext. 205</li>
+        <li>E-mail: venatasblock@pepi.com</li>
+        <li>Whatsapp: (844) 502-62-22</li>
+        
+      </ul>
+    
+       
+      </div>
+    </div>
   </div>
 </div>
+
+</div>
+
+ <div style={{height:'10%', backgroundColor:"#CDFF49", textAlign:'right'}}>.</div>
+
+  <div style={{
+    backgroundColor:"#7FFFD4", 
+    color:"white",textAlign:"left",
+    fontSize:'20px'}}>
+
+
+
+<div className="card">
+    <div style={{ 
+      height:'200px',
+      width:'100%',
+      color:"white",
+      textAlign:"center",
+      fontSize:'40px', 
+      backgroundImage: `url('https://img.freepik.com/vector-premium/fondo-imagen-portada-linkedin_420273-422.jpg?w=1800')`}}>
+  <p> Contacto Concreto Saltillo </p> 
+
+  <ul style={{
+    textAlign:'left', 
+    fontSize:'20px',
+    paddingLeft:'10%',
+    paddingTop:'2%',
+    color:'black'
+    }}>
+    <li><a href='https://www.facebook.com/profile.php?id=100089372575370&locale=es_LA' className='text-reset'>
+                  Facebook Concretos PEPI Saltillo - Oficial
+                </a></li>
+    
+    </ul> 
+  </div>
+
+
+
+
+
+<div className="row" style={{
+  paddingTop: '20px', 
+  paddingLeft:'5%',
+  backgroundImage: `url('https://img.freepik.com/vector-premium/fondo-imagen-portada-linkedin_420273-422.jpg?w=1800')` 
+  }}>
+  <div className="col-sm-6" >
+    <div className="">
+      <div className="">
+     
+      <img style={{width:'25%',height:'25%', borderRadius:'100%'}} 
+        src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOii_89zNrWsppKc_m_MxGm-I6qAjuObJIYApnp_Mj4thLjawfUNSRoKpItM6kXyoscM&usqp=CAU'  />
+
+<ul style={{paddingLeft: '10%'}}>
+       
+        <li>Name: Fernanda Francisca </li>
+        <li>Carrer: Lic.Administración de Empresas</li>
+        <li>Position: Ventas</li>
+        
+      </ul>
+  
+      <img  style={{width:'80%'}} src=''  />
+      </div>
+    </div>
+  </div>
+  <div className="col-sm-5" >
+    <div className="" style={{paddingTop:'20%'}}>
+      <div 
+      className="">
+   
+   <ul style={{paddingLeft: '10%', fontSize:'25px'}}>
+        <li>Celphone: (844) 253-61-22</li>
+        <li>Phone: (844)  4-13-25-50</li>
+        <li>Ext. 208</li>
+        <li>E-mail: venatasconcreto@pepi.com</li>
+        <li>Whatsapp: (844) 253-61-22</li>
+        
+      </ul>
+    
+       
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+
+
+<div style={{height:'10%', backgroundColor:"#CDFF49",textAlign:'right'}}>.</div>
+
+
+
+ 
+  </div>
+
+
+  
+ 
 
 <Footer/>
 
 
 
 
-    </>
+
+
+
+
+    </div>
   )
 }
 

@@ -31,7 +31,7 @@ const NavBar = () => {
           paddingLeft: '0px',
           width: '250px',
           height: '150%',
-          borderRadius:'20px',
+          borderRadius:'55px',
           }}/>
 </div>
 
