@@ -10,7 +10,9 @@ const Infraestructura = () => {
 <hr></hr>
 <br></br>
 <br></br>
+<div style={{color:'white', background:'black'}}>
 <center><h1> Tecnologia de Sistemas en Logistica,  Control y Automatización Industrial </h1></center>
+</div>
 <br></br>
 <br></br>
 <br></br>
