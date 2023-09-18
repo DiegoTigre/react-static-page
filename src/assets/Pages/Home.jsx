@@ -149,14 +149,15 @@ style={{
         alignItems: 'center',
         justifyContent: 'center',
         height: '85vh',
+        borderRadius:'40px'
       }}> 
       
   <img style={{
         
         alignItems: 'center',
         justifyContent: 'center',
-        height: '75vh',
-      
+        height: '70vh',
+        borderRadius:'10px'
       }}
   src={equipoirapuato} />
 
@@ -477,7 +478,7 @@ style={{
         justifyContent: 'center',
         height: '70vh',
         width: '100%',
-      
+        borderRadius:'10px'
       }}
   src={Flotilla} />
 

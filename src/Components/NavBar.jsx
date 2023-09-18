@@ -1,6 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import { NavLink } from "react-router-dom";
-import concretoyblocklogo2 from '../assets/Images/concretoyblocklogo2.jpg'
+import concretoyblocklogo2 from '../assets/Images/concretoyblocklogo2.jpg';
+
 
 const NavBar = () => {
   return (<>

@@ -3,6 +3,7 @@ import NavBar from '../../Components/NavBar'
 import block6pulgadas from '../Images/block6pulgadas.jpg';
 import block8pulgadas from '../Images/block8pulgadas.jpg';
 import blockmasiso from '../Images/blockmasiso.jpg';
+import { NavLink } from "react-router-dom"
 import Concretopepiblockprecio from '../Images/Concretopepiblockprecio.jpg';
 import block from '../Images/block.png';
 
@@ -61,7 +62,9 @@ Ancho
 20 cm <br></br>
 <br></br>
 <br></br>
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -103,7 +106,9 @@ Ancho
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -152,7 +157,9 @@ Ancho
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -201,7 +208,9 @@ Ancho
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>

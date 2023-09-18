@@ -1,6 +1,7 @@
 
 import { Footer } from '../../Components/Footer'
 import NavBar from '../../Components/NavBar'
+import { NavLink } from "react-router-dom"
 
 import imagendespacho from '../Images/imagendespacho.png';
 
@@ -33,12 +34,14 @@ const Products = () => {
     <div className="card">
       <div className="card-body">
         <h3 className="card-title">Servicio de Bombeo</h3>
-        <p className="card-text">Contamos .</p>
+        <p className="card-text">Contamos con concreto de alta calidad .</p>
         <p>Características
-El bloque de concreto es una pieza prefabricada (vibrocomprimido) con forma de prisma recto y con uno o más huecos verticales para su utilización en sistemas de mampostería simples o estructurales, esto debido a la posibilidad de reforzar las piezas vertical y horizontalmente.</p>
+        El concreto bombeado es aquel que se conduce a presión por medio de una tubería rígida o flexible, vaciando directamente en el elemento a colar. Es utilizado a nivel mundial para lograr acabados de calidad en las obras, mejorar los tiempos de entrega y sobretodo ahorrar considerablemente en mano de obra.</p>
         <p>Especificaciones técnicas</p>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+        <a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -69,12 +72,14 @@ El bloque de concreto es una pieza prefabricada (vibrocomprimido) con forma de p
     <div className="card">
       <div className="card-body">
         <h3 className="card-title">Servicio de Tiro Directo </h3>
-        <p className="card-text">Contamos con el block en alta calidad.</p>
+        <p className="card-text">Contamos con concreto de alta calidad.</p>
         <p>Características
-El bloque de concreto es una pieza prefabricada (vibrocomprimido) con forma de prisma recto y con uno o más huecos verticales para su utilización en sistemas de mampostería simples o estructurales, esto debido a la posibilidad de reforzar las piezas vertical y horizontalmente.</p>
+        La función principal de la mayoría de los pisos de concreto, es la de brindar un adecuado soporte a la aplicación de cargas y resistir el uso para el que fue diseñado, esto depende en gran medida  de la resistencia del concreto, es por eso que Diseñamos mezclas de concreto para pisos de alta resistencia.</p>
         <p>Especificaciones técnicas</p>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+        <a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>

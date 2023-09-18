@@ -6,6 +6,7 @@ import concretoaltaresistencia from '../Images/concretoaltaresistencia.jpg'
 import canalconcreto from '../Images/canalconcreto.jpg'
 import especializado8 from '../Images/especializado8.jpg'
 import altaresistencia from '../Images/altaresistencia.jpg'
+import { NavLink } from "react-router-dom"
 
 //import concretopremezclado from '../Images/concreto-premezclado.webp';
 const Products3 = () => {
@@ -46,7 +47,9 @@ Para la construcción de muros y paredes.<br></br>
 
 <br></br>
 <br></br>
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -90,7 +93,9 @@ Para la construcción de muros y paredes.<br></br>
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -137,7 +142,9 @@ Para la construcción de muros y paredes.<br></br>
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -185,7 +192,9 @@ Para la construcción de muros y paredes.<br></br>
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -233,7 +242,9 @@ Para la construcción de muros y paredes.<br></br>
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -280,7 +291,9 @@ Para la construcción de muros y paredes.<br></br>
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
@@ -329,7 +342,9 @@ Para la construcción de muros y paredes.<br></br>
 <br></br>
 <br></br>
 
-        <a href="#" className="btn btn-primary">Contactame</a>
+<a href="#" className="btn btn-primary">
+        <NavLink to="/contact" className="nav-link" style={{color:'white'}}>Contacto</NavLink>
+        </a>
       </div>
     </div>
   </div>
